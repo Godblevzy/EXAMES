@@ -13,7 +13,7 @@
     }
 
     .w3-code {
-        border-left: 4px solid #380077
+        border-left: 4px solid #BEFDDF09A04B43E95BD114CBAF704B5CFE39AE1936234D408ADD901554E1BE
     }
 
     .myMenu {
